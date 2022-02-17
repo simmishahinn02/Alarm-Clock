@@ -1,2 +1,2 @@
-# Alarm-Clock
-This is a Python GUI based project which help user to set alarm
+# AlarmClock-in-python
+This is a alarm clock made in python
